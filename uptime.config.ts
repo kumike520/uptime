@@ -1,6 +1,6 @@
 const pageConfig = {
   links: [
-    { link: 'https://huggingface.co/yhl834474', label: 'moontv', highlight: true },
+    { link: 'https://huggingface.co/yhl834474', label: 'huggingface.co', highlight: true },
     { link: 'https://yhl834474-moontv.hf.space', label: 'moontv'},
   ],
 }
