@@ -1,10 +1,7 @@
 const pageConfig = {
-  // Title for your status page
-  title: "数字套利 •「AM科技」's Status Page",
-  // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://amclubss.com', label: '博客', highlight: true },
-    { link: 'https://809098.xyz', label: 'Blog'},
+    { link: 'https://yhl834474-moontv.hf.space', label: 'moontv', highlight: true },
+    { link: 'https://yhl834474-moontv.hf.space', label: 'Blog'},
   ],
 }
 
@@ -17,7 +14,7 @@ const workerConfig = {
   monitors: [
     // Example TCP Monitor
     {
-      id: 'moontv',
+      id: '/yhl834474-moontv.hf.space',
       name: 'moontv',
       // `method` should be `TCP_PING` for tcp monitors
       method: 'GET',
