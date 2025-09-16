@@ -1,7 +1,7 @@
 const pageConfig = {
   links: [
     { link: 'https://yhl834474-moontv.hf.space', label: 'moontv', highlight: true },
-    { link: 'https://yhl834474-moontv.hf.space', label: 'Blog'},
+    { link: 'https://yhl834474-moontv.hf.space', label: 'moontv'},
   ],
 }
 
