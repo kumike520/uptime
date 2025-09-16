@@ -5,8 +5,6 @@ const pageConfig = {
   links: [
     { link: 'https://amclubss.com', label: '博客', highlight: true },
     { link: 'https://809098.xyz', label: 'Blog'},
-    { link: 'https://youtube.com/@AM_CLUBS', label: 'YouTube' },
-    { link: 'https://github.com/amclubs', label: 'GitHub' }, 
   ],
 }
 
@@ -25,8 +23,6 @@ const workerConfig = {
       method: 'GET',
       // `target` should be `host:port` for tcp monitors
       target: 'https://yhl834474-moontv.hf.space',
-      tooltip: 'My production server monitor',
-      statusPageLink: 'https://yhl834474-moontv.hf.space',
       timeout: 10000,
     },
   ],
